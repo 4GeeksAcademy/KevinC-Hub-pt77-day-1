@@ -1,7 +1,13 @@
 .post {
     margin: auto;
+    border-radius: 10px;
+    background-color: white;
     width: 500px;
-    height: 5000px;
+    height: 550px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: stretch;
 }
 img {
     width: 100%;
